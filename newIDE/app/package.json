@@ -18,7 +18,7 @@
     "@storybook/react-webpack5": "7.4.6",
     "@storybook/theming": "7.4.6",
     "@types/node": "22.18.0",
-    "adm-zip": "^0.5.10",
+    "adm-zip": "^0.6.1",
     "axios-mock-adapter": "^1.22.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-loader": "8.1.0",
